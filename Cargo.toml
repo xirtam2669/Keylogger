@@ -1,0 +1,9 @@
+[package]
+name = "Keylogger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+evdev = "0.12.2"
+reqwest = "0.12.7"
+sysinfo = "0.31.4"
